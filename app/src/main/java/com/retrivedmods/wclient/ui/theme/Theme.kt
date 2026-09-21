@@ -18,9 +18,9 @@ import androidx.compose.ui.unit.sp
 
 object WColors {
     // Primary reds
-    val Primary = Color(0xFFEF4444)
-    val PrimaryLight = Color(0xFFF87171)
-    val PrimaryDark = Color(0xFFDC2626)
+    val Primary = Color(0xFFFFFFFF)
+    val PrimaryLight = Color(0xFFE0E0E0)
+    val PrimaryDark = Color(0xFFBDBDBD)
     val OnPrimary = Color(0xFFFFFFFF)
 
     // Secondary for contrast (cool slate)
@@ -30,12 +30,12 @@ object WColors {
     val OnSecondary = Color(0xFFFFFFFF)
 
     // Accent red/pink for glow effects
-    val Accent = Color(0xFFF43F5E)
+    val Accent = Color(0xFFFFFFFF)
     val AccentLight = Color(0xFFFB7185)
     val AccentDark = Color(0xFFBE123C)
 
 
-    val Background = Color(0xFF0B0A10)
+    val Background = Color(0xFF080808)
     val Surface = Color(0xFF121016)
     val SurfaceVariant = Color(0xFF1D1A22)
     val SurfaceContainer = Color(0xFF17141C)
